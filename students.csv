@@ -1,0 +1,6 @@
+Roll_No,Name,Father_Name,Email,Phone,Semester,CGPA,Password,Attendance,Department,Session,CNIC,Address
+BSDS-2ND-001,Hamza Gill,Muhammad Ashraf,hamzagill877@gmail.com,0300-1234567,2nd,3.45,password123,92%,BS Data Science,2023-2027,33102-1234567-1,Faisalabad
+BSDS-2ND-002,Ayesha Khan,Imran Khan,ayesha@iub.edu.pk,0301-7654321,2nd,3.78,ayesha123,95%,BS Data Science,2023-2027,33102-7654321-2,Bahawalpur
+BSDS-2ND-014,Fatima Noor,Ali Raza,fatima@iub.edu.pk,0302-1122334,2nd,3.91,fatima123,97%,BS Data Science,2023-2027,33102-9998887-3,IUB Hostel
+BSDS-2ND-022,Usman Riaz,Riaz Ahmad,usman@iub.edu.pk,0303-4455667,2nd,3.12,usman123,85%,BS Data Science,2023-2027,33102-1112223-4,Rahim Yar Khan
+BSDS-2ND-030,Ali Hassan,Hassan Ali,ali@iub.edu.pk,0304-9988776,2nd,3.65,ali123,90%,BS Data Science,2023-2027,33102-4445556-5,Lodhran
